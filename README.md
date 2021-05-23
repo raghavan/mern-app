@@ -1,2 +1,2 @@
 # mern-app
-A simple app on MERN stack
+A simple app built using Mongo Express React Node stack
